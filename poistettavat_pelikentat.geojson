@@ -10,7 +10,9 @@
           61.471150723767394
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Eskonpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -21,7 +23,9 @@
           61.45466467887745
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Peltolammin koulu (kaakkoinen)"
+      }
     },
     {
       "type": "Feature",
@@ -32,7 +36,9 @@
           61.442655360567436
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Perkkoonpuisto keski"
+      }
     },
     {
       "type": "Feature",
@@ -43,7 +49,9 @@
           61.47048543093659
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Kaukajärven koulu (itä)"
+      }
     },
     {
       "type": "Feature",
@@ -54,7 +62,9 @@
           61.45552084555068
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Kanjonin koulu ja nuorisotalo (itä)"
+      }
     },
     {
       "type": "Feature",
@@ -65,7 +75,9 @@
           61.445865819252035
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Kisapuisto"
+      }
     },
     {
       "type": "Feature",
@@ -76,7 +88,9 @@
           61.44419908882908
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Koulumetsikkö"
+      }
     },
     {
       "type": "Feature",
@@ -87,7 +101,9 @@
           61.44376316002037
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Näyttämönpuisto (luode)"
+      }
     },
     {
       "type": "Feature",
@@ -98,7 +114,9 @@
           61.451742256209364
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Pallopuisto (länsi)"
+      }
     },
     {
       "type": "Feature",
@@ -109,7 +127,9 @@
           61.470897079539746
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Riipuksenpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -120,7 +140,9 @@
           61.47078936157635
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Sinisenneidonpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -131,7 +153,9 @@
           61.48889300568293
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Järvensivunpuisto (länsi)"
+      }
     },
     {
       "type": "Feature",
@@ -142,7 +166,9 @@
           61.502041432578785
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Hämeenpuisto pohjoinen"
+      }
     },
     {
       "type": "Feature",
@@ -153,7 +179,9 @@
           61.4813332174859
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Iideskartanonpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -164,7 +192,9 @@
           61.49190411726501
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Korpinpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -175,7 +205,9 @@
           61.49162247802222
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Nalkalan kenttä"
+      }
     },
     {
       "type": "Feature",
@@ -186,7 +218,9 @@
           61.48591233282826
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Pahalammenpuisto (pohjoinen)"
+      }
     },
     {
       "type": "Feature",
@@ -197,7 +231,9 @@
           61.49606184004145
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Pellervon ent. koulu (itä)"
+      }
     },
     {
       "type": "Feature",
@@ -208,7 +244,9 @@
           61.49640999851317
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Pellervon ent. koulu (länsi)"
+      }
     },
     {
       "type": "Feature",
@@ -219,7 +257,9 @@
           61.490511258324375
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Ylä-Järvensivun puisto"
+      }
     },
     {
       "type": "Feature",
@@ -230,7 +270,9 @@
           61.49877020542181
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Tampereen uintikeskus"
+      }
     },
     {
       "type": "Feature",
@@ -241,7 +283,9 @@
           61.4774816639047
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Vinninkoivikko"
+      }
     },
     {
       "type": "Feature",
@@ -252,7 +296,9 @@
           61.47972473301819
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Haavikonpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -263,7 +309,9 @@
           61.49981969761972
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Ikalannotko"
+      }
     },
     {
       "type": "Feature",
@@ -274,7 +322,9 @@
           61.48774583892248
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Ilmattarenpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -285,7 +335,9 @@
           61.47661151089298
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Juvelanpuisto (länsi)"
+      }
     },
     {
       "type": "Feature",
@@ -296,7 +348,9 @@
           61.49197068616812
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Karkonmäenpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -307,7 +361,9 @@
           61.476215489661804
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Koivuladonpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -318,7 +374,9 @@
           61.487064688652794
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Nikkilänpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -329,7 +387,9 @@
           61.5277564427399
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Pitkäniitynpuisto (pohjoinen)"
+      }
     },
     {
       "type": "Feature",
@@ -340,7 +400,9 @@
           61.47677904444803
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Vehmaisten koulu"
+      }
     },
     {
       "type": "Feature",
@@ -351,7 +413,9 @@
           61.50628225333418
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Halimasjärvenpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -362,7 +426,9 @@
           61.497331575662784
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Jurvalanpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -373,7 +439,9 @@
           61.496374158850365
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Juurespuisto"
+      }
     },
     {
       "type": "Feature",
@@ -384,7 +452,9 @@
           61.50732893303326
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Kohmanpuisto, Tesoman tenniskentät 1 ja 2"
+      }
     },
     {
       "type": "Feature",
@@ -395,7 +465,9 @@
           61.5073852326544
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Kohmanpuisto, Tesoman tenniskentät 1 ja 2"
+      }
     },
     {
       "type": "Feature",
@@ -406,7 +478,9 @@
           61.49861661822804
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Raholan perhetukikeskus"
+      }
     },
     {
       "type": "Feature",
@@ -417,7 +491,9 @@
           61.504979612529546
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Risuharjunpuisto itä"
+      }
     },
     {
       "type": "Feature",
@@ -428,7 +504,9 @@
           61.51010284770536
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Sudenkuopanrinne"
+      }
     },
     {
       "type": "Feature",
@@ -439,7 +517,9 @@
           61.50725216065833
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Tesomajärven koulu – läntinen kenttä (Kohmanpuisto)"
+      }
     },
     {
       "type": "Feature",
@@ -450,7 +530,9 @@
           61.512902101137286
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Tesomanpuisto-Apilapuisto"
+      }
     },
     {
       "type": "Feature",
@@ -461,7 +543,9 @@
           61.50490283435517
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Vaakonpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -472,7 +556,9 @@
           61.50557335734457
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Viskanpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -483,7 +569,9 @@
           61.52584064537121
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Halkoniemenpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -494,7 +582,9 @@
           61.52859781428206
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Metsänhoitajanpuisto (pohjoinen)"
+      }
     },
     {
       "type": "Feature",
@@ -505,7 +595,9 @@
           61.53076123649399
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Niemen rantapuisto"
+      }
     },
     {
       "type": "Feature",
@@ -516,7 +608,9 @@
           61.52925759730426
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Pyhällönpuisto"
+      }
     },
     {
       "type": "Feature",
@@ -527,7 +621,9 @@
           61.529953167335094
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "Venepuisto"
+      }
     }
   ]
 }
